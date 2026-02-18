@@ -11,7 +11,7 @@ Career switcher looking to bring my customer service skills into the data world.
 
 TBC
 
-## Contact me:
+## Contact me
 
 LinkedIn: www.linkedin.com/in/ethan-mitchell-a0a5bb251
 
