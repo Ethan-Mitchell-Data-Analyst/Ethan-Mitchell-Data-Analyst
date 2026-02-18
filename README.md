@@ -4,8 +4,8 @@ Career switcher looking to bring my customer service skills into the data world.
 
 ## Key skills
 
-• Excel, SQL, Python, Tableau
-• Customer service
+- Excel, SQL, Python, Tableau
+- Customer service
 
 ## Featured projects with links
 
