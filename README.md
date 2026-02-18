@@ -10,6 +10,7 @@ Career switcher looking to bring my customer service skills into the data world.
 ## Featured projects with links
 
 TBC
+
 ---
 **Contact me on LinkedIn:** www.linkedin.com/in/ethan-mitchell-a0a5bb251
 **Learning goals:**
