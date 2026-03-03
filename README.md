@@ -9,9 +9,11 @@ Career switcher looking to bring my customer service skills into the data world.
 
 ## Featured projects with links
 
-[Formula 1 Racing Queries](https://github.com/Ethan-Mitchell-Data-Analyst/Formula-1-Racing-Queries) [SQL]
+[IN PROGRESS] 
 
-[Student Grade Calculator](https://github.com/Ethan-Mitchell-Data-Analyst/Student-Grade-Calculator) [Python]
+[SQL] [Formula 1 Racing Queries](https://github.com/Ethan-Mitchell-Data-Analyst/Formula-1-Racing-Queries) 
+
+[Python] [Student Grade Calculator](https://github.com/Ethan-Mitchell-Data-Analyst/Student-Grade-Calculator) 
 
 ---
 **Contact me on LinkedIn:** www.linkedin.com/in/ethan-mitchell-a0a5bb251
