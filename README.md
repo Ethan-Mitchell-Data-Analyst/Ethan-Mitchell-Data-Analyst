@@ -9,7 +9,7 @@ Career switcher looking to bring my customer service skills into the data world.
 
 ## Featured projects with links
 
-[IN PROGRESS] 
+[IN PROGRESS] [Python Data Cleaning Project](https://github.com/Ethan-Mitchell-Data-Analyst/Python-Data-Cleaning-Project)
 
 [SQL] [Formula 1 Racing Queries](https://github.com/Ethan-Mitchell-Data-Analyst/Formula-1-Racing-Queries) 
 
