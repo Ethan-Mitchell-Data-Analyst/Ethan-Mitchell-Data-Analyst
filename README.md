@@ -19,5 +19,7 @@ Career switcher looking to bring my customer service skills into the data world.
 **Contact me on LinkedIn:** www.linkedin.com/in/ethan-mitchell-a0a5bb251
 
 **Learning goals:**
+- [ ] Complete a data cleaning project in Python/Pandas
+- [ ] Build a project in Python with data cleaning, EDA, visualisations and business insights (Pandas, Matplotlib, Seaborn)
 - [ ] Build a full project in Excel that showcases advanced Excel techniques, dashboarding skills and data storytelling.
 - [ ] Gain confidence using SQL for manipulating larger datasets and analysis.
