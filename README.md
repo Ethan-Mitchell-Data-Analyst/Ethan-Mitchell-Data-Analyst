@@ -1,6 +1,7 @@
 # Ethan Mitchell | Junior Data Analyst
 
 Career switcher looking to bring my customer service skills into the data world. Ruthlessly detail-oriented and passionate about individual people!
+**Contact me on LinkedIn:** www.linkedin.com/in/ethan-mitchell-a0a5bb251
 
 ## Key skills
 
@@ -16,7 +17,6 @@ Career switcher looking to bring my customer service skills into the data world.
 [Python] [Student Grade Calculator](https://github.com/Ethan-Mitchell-Data-Analyst/Student-Grade-Calculator) 
 
 ---
-**Contact me on LinkedIn:** www.linkedin.com/in/ethan-mitchell-a0a5bb251
 
 **Learning goals:**
 - [ ] Complete a data cleaning project in Python/Pandas
