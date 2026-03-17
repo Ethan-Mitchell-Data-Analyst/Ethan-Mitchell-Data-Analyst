@@ -7,7 +7,7 @@ Career switcher looking to bring my customer service skills into the data world.
 - Excel, SQL, Python, Tableau
 - Customer service
 
-## Featured projects with links
+## Featured projects
 
 [IN PROGRESS] [Python Data Cleaning Project](https://github.com/Ethan-Mitchell-Data-Analyst/Python-Data-Cleaning-Project)
 
