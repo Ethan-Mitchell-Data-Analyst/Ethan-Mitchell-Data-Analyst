@@ -1,6 +1,8 @@
 # Ethan Mitchell | Junior Data Analyst
 
-Career switcher looking to bring my customer service skills into the data world. Ruthlessly detail-oriented and passionate about individual people! **Contact me on LinkedIn:** www.linkedin.com/in/ethan-mitchell-a0a5bb251
+Career switcher looking to bring my customer service skills into the data world. Ruthlessly detail-oriented and passionate about individual people! 
+
+**Contact me on LinkedIn:** www.linkedin.com/in/ethan-mitchell-a0a5bb251
 
 ## Key skills
 
